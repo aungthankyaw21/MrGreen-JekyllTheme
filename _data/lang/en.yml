@@ -27,7 +27,7 @@ not_found:
 no_translation_tooltip: No Translation
 
 navigation:
-  brand_sub_text: Jekyll theme
+  brand_sub_text: Cloud Computing Enthusiast
   contact_header: Contact
 
 color_scheme_switch_tooltip: Color scheme
@@ -144,7 +144,7 @@ archives:
 about:
   title: About
   button_name: About
-  sub_title: "Technical Operation Officer"
+  sub_title: "Technical Operations Officer"
   email_title: email
 
 # for links layout
